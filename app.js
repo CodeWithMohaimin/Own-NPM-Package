@@ -6,5 +6,7 @@ _.each(arr, function (element) {
     console.log(element);
     console.log('hello programmers');
     console.log('hello world');
+    console.log('my own npm packages');
+    
     
 });
